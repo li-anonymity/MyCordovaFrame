@@ -10,6 +10,9 @@
 
 ## cordova插件
 
+cordova-plugin-badge 0.8.8 "Badge"
+cordova-plugin-device 2.0.3 "Device"
+cordova-plugin-local-notification 0.9.0-beta.2 "LocalNotification"
 cordova-plugin-whitelist 1.3.5 "Whitelist"
 
 ## cordova框架改动
